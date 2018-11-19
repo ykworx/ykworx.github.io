@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ykworx.github.io/"/>
-  <updated>2018-11-18T17:54:06.417Z</updated>
+  <updated>2018-11-19T06:53:22.653Z</updated>
   <id>http://ykworx.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>첫번째 포스트</title>
+    <link href="http://ykworx.github.io/2018/11/19/20181119-first-post/"/>
+    <id>http://ykworx.github.io/2018/11/19/20181119-first-post/</id>
+    <published>2018-11-19T06:18:07.000Z</published>
+    <updated>2018-11-19T06:53:22.653Z</updated>
+    
+    <content type="html"><![CDATA[<p>블로그를 시작하였습니다. 기록하는 습관의 필요성과 더불어 좀 더 세밀하게 공부할 필요가 있을것 같아서요<br>아무쪼록 열심히 써볼렵니다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;블로그를 시작하였습니다. 기록하는 습관의 필요성과 더불어 좀 더 세밀하게 공부할 필요가 있을것 같아서요&lt;br&gt;아무쪼록 열심히 써볼렵니다.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="personal" scheme="http://ykworx.github.io/tags/personal/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
